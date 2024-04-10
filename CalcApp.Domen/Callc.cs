@@ -12,4 +12,9 @@ public class Calc
     {
         return num % 2 == 0;
     }
+    // Метод для деления двух чисел
+    public double Divide(int a, int b)
+    {
+        return a / b;
+    }
 }
