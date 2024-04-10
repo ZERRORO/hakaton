@@ -25,4 +25,9 @@ public class Calc
         return num % 2 == 0;
 >>>>>>> 9b2021439e0b60ecfb8167722097668d8b24f7ae
     }
+    // Метод для деления двух чисел
+    public double Divide(int a, int b)
+    {
+        return a / b;
+    }
 }
