@@ -9,7 +9,10 @@ public class Calc
     {
         return a + b;
     }
-
+    public static int Substraction(int a, int b)
+    {
+        return a + b;
+    }
 <<<<<<< HEAD
     public static int factorial(int f)
     {
