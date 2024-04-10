@@ -7,4 +7,9 @@ public class Calc
     {
         return a + b;
     }
+
+    public bool IsEven(int num)
+    {
+        return num % 2 == 0;
+    }
 }
